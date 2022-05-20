@@ -5,6 +5,7 @@
 #include <cstring>
 #include <string>
 #include <conio.h>
+#include<math.h>
 using namespace std;
 
 struct bootSectorData{
